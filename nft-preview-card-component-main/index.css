@@ -1,0 +1,60 @@
+body {
+    background-color: hsl(217, 54%, 11%);
+    font-family: 'Outfit', sans-serif;
+}
+
+p {
+    color: hsl(215, 51%, 70%);
+}
+
+.card {
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 5%;
+    background-color: hsl(216, 50%, 16%);
+    border-radius: 10px;
+}
+
+.equillibrium {
+    padding: 15px;
+    border-radius: 20px;
+}
+
+.equi {
+    color: white;
+    font-weight: bold;
+}
+
+.list {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    display: block;
+    float: left;
+}
+
+.eth {
+    color: hsl(178, 100%, 50%);
+}
+
+.time {
+    padding-left: 100px;
+}
+
+.line {
+    background-color: grey;
+}
+
+.avatar {
+    background-color: white;
+    border-radius: 25px;
+    padding: 2px;
+}
+
+.name {
+    color: white;
+}
